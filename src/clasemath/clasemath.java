@@ -64,8 +64,10 @@ public class clasemath {
 		double numero = 4.2;
 			
 		int numRedondeado = (int) Math.round(numero);
-		 
-		    
+		  
+		// Boluleo
+		// vende papas
+		// nose 
 			
 			// VAMOS A MOSTRAR EN PANTALLA TODOS LOS DATOS ANTERIORES:
 		  System.out.println("El valor de la raiz es: "+raiz_cuadrada);
